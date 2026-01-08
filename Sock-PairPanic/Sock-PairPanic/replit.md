@@ -74,7 +74,3 @@ shared/          # Shared code between client and server
 - cmdk for command palette
 - recharts for charts
 
-### Replit-Specific Plugins
-- @replit/vite-plugin-runtime-error-modal
-- @replit/vite-plugin-cartographer (dev only)
-- @replit/vite-plugin-dev-banner (dev only)
